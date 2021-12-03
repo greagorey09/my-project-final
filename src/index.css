@@ -1,0 +1,25 @@
+body {
+  padding: 20px;
+  margin: 0;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.center {
+  justify-content: center;
+  align-items: center;
+  
+}
+.liproducts{
+  list-style-type: none;
+  text-align: center;
+}
+.btn{
+  position: relative;
+  text-align: center;
+  justify-content: space-between;
+  
+}
